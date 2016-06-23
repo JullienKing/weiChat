@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/com/qq/weixin/mp/aes=UTF-8
+encoding//src/com/qq/weixin/mp/aes/PKCS7Encoder.java=UTF-8
+encoding//src/com/qq/weixin/mp/aes/WXBizMsgCrypt.java=UTF-8
